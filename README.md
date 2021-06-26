@@ -38,5 +38,7 @@ Alguns Links para consultar +:
 
 &nbsp;
 <h2>Meta</h2>
-Thiago Oliveira - Twitter: [@oliveiracrow](https://twitter.com/oliveiracrow)  
- Linkedin: [Thiago Oliveira](https://www.linkedin.com/in/thiago-pereira-de-oliveira-664b289a) - E-mail para contato: devfs.thiago.oliveira@outlook.com
+
+Thiago Oliveira - E-mail para contato: devfs.thiago.oliveira@outlook.com
+
+ Linkedin: [Thiago Oliveira](https://www.linkedin.com/in/thiago-pereira-de-oliveira-664b289a) 
